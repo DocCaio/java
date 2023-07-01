@@ -2,7 +2,7 @@ String texto:
 
 int numero
 
-boolean validoj
+boolean valido!
 
 Scanner leia- new Boanner (System.in)
 
